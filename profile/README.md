@@ -1,5 +1,6 @@
 Hello! This is the code backup for the Harrisonburg High School Electric Vehicle Grand Prix.
-Most of this code was writen or heavly modifiyed by Joshua Nafziger. If there are any questions or issues please contact me at _(540)215-1887_ or _joshua@nafzigers.us_. 
+Most of this code was writen or heavly modifiyed by Joshua Nafziger.
+Joshua's Contact: _joshua@nafzigers.us_. 
 
 **Who are we?**
 
